@@ -1,0 +1,50 @@
+.body{
+    
+    position: relative;
+    left: 150px;
+    max-width: 100%;
+    max-height: 100%;
+   
+    
+    
+}
+.head{
+    
+    padding-top: 30px;   
+    font-family: SemiBold;
+    font-style:normal;
+    font-weight: 600;
+    font-size: 24px;
+   
+    color: #606060;
+
+
+}
+.formcontrol{
+    width:169px;
+    height:44px;
+    top:40px;
+    padding-right:25px; 
+    
+    box-sizing:border-box;
+} 
+.formselect{
+    border:1px solid #B8B298;
+    background:#FFFFFF;
+    border-radius:8px;
+}
+.radiogroup1{
+    padding:0px 5px;
+    width:345px;
+    height: 280px;
+    
+}
+.radiogroup2{
+    padding:0px 5px;
+     width:345px;
+     margin:10px;
+}
+.formgroup{
+    margin-left:20px;
+     position:static;
+}
